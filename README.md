@@ -4,7 +4,7 @@ Le projet est la construction d'un réseau social interne d'une société appel�
 
 Tech stack Front-end : Bootstrap Vue, Vuejs, 
 
-Tech stack Back-end : Nodejs, Express, Sequelize et les outils de l'OWASP
+Tech stack Back-end : Nodejs, Express, MySql et les outils de l'OWASP
 
 Cahier des charges : https://github.com/FCX-Web/21-09-Groupomania/blob/main/groupomania.pdf
 
